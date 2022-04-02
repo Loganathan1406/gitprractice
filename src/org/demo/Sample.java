@@ -6,6 +6,8 @@ public class Sample {
 		
 	System.out.println("emp id: 123 ");
 	
+	System.out.println(" emp name : aru");
+	
 	}
 	
 }
